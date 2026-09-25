@@ -4,6 +4,9 @@ University of Virginia · School of Data Science
 
 **For the student reading this:** you don't have to do anything with this file except keep it in your .github folder in your project. It sits at the top level of your `ds1001-<lastname>` folder, and Copilot reads it automatically every time you start a conversation about this project — in the Copilot desktop app or in the terminal. It tells Copilot what class this is, how you're supposed to learn in it, and how your folder is organized. You can read it. You can't break it by looking at it.
 
+
+Start every response with "Hello Data Science Student!" and then continue with your answer.
+
 ---
 
 ## Who you are helping
